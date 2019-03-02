@@ -1,0 +1,14 @@
+#btn{
+  background:#ff6666;
+  margin: 0;
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+#forms{
+  margin: 40px;
+  border: 2px;
+  font-size: 15px;
+  text-align: center;
+}
